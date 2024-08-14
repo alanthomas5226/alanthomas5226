@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Acerca de mí:
 Hola mi nombre es alan, soy de colombia y actualmente aprendiz del sena (ADSO)
 
 👉 En este repositorio puedes encontrar mi proyecto formativo (_______) 
@@ -10,7 +10,7 @@ Hola mi nombre es alan, soy de colombia y actualmente aprendiz del sena (ADSO)
 👉mi numero de contacto : 3024967448
 
 
-## 🌐 Socials:
+## 🌐 Sociales:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/masto5226) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alan_lugo04) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@insideyourhead_bya) 
 
 # 💻 Tech Stack:
@@ -20,19 +20,19 @@ Hola mi nombre es alan, soy de colombia y actualmente aprendiz del sena (ADSO)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alanthomas5226&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alanthomas5226&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 Trofeos de GitHub
 ![](https://github-profile-trophy.vercel.app/?username=alanthomas5226&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Cita aleatoria de un desarrollador
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 🔝 Repositorio con mayor contribución
 ![](https://github-contributor-stats.vercel.app/api?username=alanthomas5226&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alanthomas5226&icon=1&color=7)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Puedes ayudarme donando
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/masto5226spro@gmail.com) 
 
   
