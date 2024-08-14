@@ -1,8 +1,12 @@
 # 💫 About Me:
 Hola mi nombre es alan, soy de colombia y actualmente aprendiz del sena (ADSO)
+
 👉 En este repositorio puedes encontrar mi proyecto formativo (_______) 
+
 👉 Me desempeño en el area de la videografia
+
 👉 encontraras mis proyectos y repositorios en la seccion de abajo
+
 👉mi numero de contacto : 3024967448
 
 
